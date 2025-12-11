@@ -1,0 +1,5 @@
+{
+  "name": "Royal Recipes",
+  "description": "An AI-powered recipe finder that generates structured, color-coded recipes with stylized visual previews.",
+  "requestFramePermissions": []
+}
